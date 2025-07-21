@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a, button, ul, li, h1, h2, h3, h4, h5, form, input, label {
+  all: unset;
+}
+
+h1, h2, h3, h4, h5 {
+  display: block;
+}
