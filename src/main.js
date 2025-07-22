@@ -1,3 +1,6 @@
+import "./reset.css";
+import "./styles.css";
+
 const button = document.getElementById("button123");
 const mobileNav = document.getElementById("mobileNav");
 let isOpen = false;
